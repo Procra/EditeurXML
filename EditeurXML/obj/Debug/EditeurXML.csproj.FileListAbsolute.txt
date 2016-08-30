@@ -1,0 +1,16 @@
+C:\Data\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\bin\Debug\EditeurXML.exe
+C:\Data\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\bin\Debug\EditeurXML.pdb
+C:\Data\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.main.resources
+C:\Data\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.Properties.Resources.resources
+C:\Data\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.csproj.GenerateResource.Cache
+C:\Data\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.exe
+C:\Data\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.pdb
+C:\Data\Etudes\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.exe
+C:\Data\Etudes\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.pdb
+C:\Data\Etudes\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\bin\Debug\EditeurXML.exe
+C:\Data\Etudes\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\bin\Debug\EditeurXML.pdb
+C:\Data\Etudes\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.csprojResolveAssemblyReference.cache
+C:\Data\Etudes\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.main.resources
+C:\Data\Etudes\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.Properties.Resources.resources
+C:\Data\Etudes\Cours cs2i\Bachelor 3\XML\EditeurXML\EditeurXML\obj\Debug\EditeurXML.csproj.GenerateResource.Cache
